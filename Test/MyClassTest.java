@@ -6,9 +6,6 @@ import java.util.List;
 
 import static junit.framework.Assert.assertEquals;
 
-/**
- * Created by samiksha on 1/14/14.
- */
 public class MyClassTest extends MyClass {
     @Test
     public void testSortByAge() throws Exception {
